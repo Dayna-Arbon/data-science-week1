@@ -1,1 +1,2 @@
 ive learnt how to connect Git to my Rstudio and how to create a token. 
+ive learnt how to commit and push.
