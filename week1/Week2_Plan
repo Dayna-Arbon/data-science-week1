@@ -1,0 +1,55 @@
+WEEK 2 CLEANING PLAN
+====================
+Name: Dayna Arbon
+Date: 06/02/26
+
+I've completed all 5 tutorials and application checklists.
+
+Looking across all my checklists, these are the 2 most important issues 
+to address in Week 2:
+
+
+ISSUE 2 ( Second Most Important)
+-------------------------
+Brief description: There are upper and lower cases.  
+
+Which tutorial provides the solution: 1
+
+Which variable(s) affected: treatment
+
+Why this is important to fix: when creating data like graphs, r wont know to use low_dose,LOW_DOSE and Low_dose when i input low_dose. so graphs will not include all data. 
+
+What I plan to do: change to lowercase. 
+
+
+
+ISSUE 1 (Most Important)
+--------------------------------
+Brief description: removing negative body_mass_mg
+
+Which tutorial provides the solution: 5
+
+Which variable(s) affected: body_mass_mg
+
+Why this is important to fix: mosquitos cannot be negative body mass. it is impossible. 
+
+What I plan to do: filter to normal range. 
+
+
+
+OTHER ISSUES I NOTICED (but won't fix in Week 2)
+-------------------------------------------------
+- duplicate rows - decided to leave as wont affect means 
+- missing data values in collector column - not as importamt to know who collect as knowing the actual results. 
+- missing data in body mass - more important to see how the pesticides dosage affect the egg. 
+
+
+QUESTIONS TO DISCUSS IN WEEK 2
+-------------------------------
+Things I'm still unsure about:
+
+1. dates? are they in correct order. 
+
+2. missing data in collector column?
+
+3. should i remove duplicates 
