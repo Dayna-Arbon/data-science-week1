@@ -31,7 +31,7 @@ Which tutorial provides the solution: 5
 
 Which variable(s) affected: body_mass_mg
 
-Why this is important to fix: mosquitos cannot be negative body mass. it is impossible. 
+Why this is important to fix: mosquitos cannot be negative body mass. it is impossible.
 
 What I plan to do: filter to normal range. 
 
@@ -53,3 +53,5 @@ Things I'm still unsure about:
 2. missing data in collector column?
 
 3. should i remove duplicates 
+
+4. as suggested by study context noraml body_mass_g range is between 50-130mg. should remove values not in this range also? not just negatives.
